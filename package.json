@@ -1,0 +1,24 @@
+{
+  "name": "tcp-server-for-gps-gt02",
+  "version": "1.0.0",
+  "description": "TCP server to parse gps data and show it on a map\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dto show it on a map",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bittmen/TCP-Server-for-GPS-GT02.git"
+  },
+  "keywords": [
+    "tcp",
+    "server"
+  ],
+  "author": "Rodolfo Frías",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bittmen/TCP-Server-for-GPS-GT02/issues"
+  },
+  "homepage": "https://github.com/Bittmen/TCP-Server-for-GPS-GT02#readme"
+}
